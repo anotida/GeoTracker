@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566771162796",
+    "firebase_url": "https://geo-tracker-b059b.firebaseio.com",
+    "project_id": "geo-tracker-b059b",
+    "storage_bucket": "geo-tracker-b059b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566771162796:android:1c707f21a8abbebf",
+        "android_client_info": {
+          "package_name": "zw.co.vokers.geo_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566771162796-tg1celopfkoiegdt5fndfk7f2qmkdl9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zw.co.vokers.geo_tracker",
+            "certificate_hash": "4801838c14d215e24f6be66694bf86df229f9520"
+          }
+        },
+        {
+          "client_id": "566771162796-a5qgt3qenqrabdnagl9oslnol20toti5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP8p6uBNsHdmU5eFvFjjlrK5uGh2D1tjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566771162796-a5qgt3qenqrabdnagl9oslnol20toti5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
